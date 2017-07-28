@@ -3946,7 +3946,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-hover-item .ft-1, .ft-hover-item .ft-2 {
-  background: #ccc url(http://placehold.it/900x580);
+  background: #ccc url("../images/home/image_k_01.jpg");
   background-size: 100%;
   background-position: 50%;
   -webkit-transition: background-size 0.3s;
@@ -3966,7 +3966,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-hover-item .ft-2 {
-  background: #ccc url(http://placehold.it/900x580/999/eee);
+  background: #ccc url("../images/home/image_b_01.jpg");
   background-size: 100%;
   background-position: 50%;
 }
