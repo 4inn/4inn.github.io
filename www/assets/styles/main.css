@@ -4197,7 +4197,7 @@ fieldset[disabled] .form-control:hover {
 /* ---- 10.1 Circle Counters ---- */
 .circles-counters, .circles-counters-dark-bg {
   position: relative;
-  background: #ccc url(http://placehold.it/2440x1578);
+  background: #ccc url("../images/home/kitchen_b_01.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
